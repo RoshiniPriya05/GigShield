@@ -177,6 +177,8 @@ Payouts fire automatically the moment a threshold is crossed and the worker is i
 - [ ] Production-ready deployment
 
 ---
+![System Flow](./gigshield_system_flow.svg)
+![AI Architecture](./gigshield_ai_architecture.svg)
 
 ## 🎯 Why GigShield?
 
